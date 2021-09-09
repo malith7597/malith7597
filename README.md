@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @malith7597
+- 👋 Hi, I’m malith
 - 👀 I’m interested in  Data Science
 - 🌱 I’m currently learning  Web development Frameworks and machine learning.
 - 💞️ I’m looking to collaborate on machine learning projects
