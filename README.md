@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @malith7597
 - 👀 I’m interested in  Data Science
-- 🌱 I’m currently learning  Wed development Frameworks and machine learning.
+- 🌱 I’m currently learning  Web development Frameworks and machine learning.
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me dm kavindam_cs17012@stu.kln.ac.lk
  -fun fact- die hard cricket fan!
