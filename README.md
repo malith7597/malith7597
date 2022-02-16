@@ -1,5 +1,5 @@
 - 👋 Hi, I’m malith
-- 👀 I’m interested in  Data Science
+- 👀 interested in  Data Science.
 - 🌱 learning  Web development Frameworks and machine learning.
 - 💞️  looking to collaborate on machine learning projects
 - 📫  reach me dm kavindam_cs17012@stu.kln.ac.lk
