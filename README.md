@@ -2,7 +2,7 @@
 
 - 👨‍🎓 I'm currently pursuing a degree in Computer Science, and my academic journey has equipped me with a solid foundation in programming, data analysis, and problem-solving.
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif){:width="100" height="100"}
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 - 👨‍💻 I'm proficient in a variety of technologies, including:
   - Web development using **Next.js**, **Spring Boot**, and **React**.
