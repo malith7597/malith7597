@@ -1,4 +1,4 @@
-![Data Science](https://media.giphy.com/media/Y2siFL8PCUm5ucFBuS/giphy.gif){:width="100" height="100"}
+![Data Science](https://media.giphy.com/media/Y2siFL8PCUm5ucFBuS/giphy.gif)
 
 - 👨‍🎓 I'm currently pursuing a degree in Computer Science, and my academic journey has equipped me with a solid foundation in programming, data analysis, and problem-solving.
 
